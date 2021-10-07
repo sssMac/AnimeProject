@@ -1,0 +1,30 @@
+﻿body {
+
+}
+
+.Drop_Down{
+    position: relative;
+    width: 200px;
+}
+    .Drop_Down:focus .List{
+        left: 0;
+    }
+
+.Check_Box{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+
+}
+    .Check_Box:focus ~ .List{
+        left: 0;
+    }
+
+.List {
+    position: absolute;
+    left: -1567px;
+    top: 0;
+}
