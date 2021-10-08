@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2HSYuREygAJQzmN90vWou7wiXTDKCve14VG19ccUzlRyxydZBrQdQ3qIt9946JOoNPHbQEXNYmgEYq53S6BW1Q==",
+  "dgSpecHash": "PxoZxxUK8PHUsghy4oB12jN9J6PRVOsjPj7gqrwej/VTQ7V/vv2dlkFUjYh3KRFCCAEax/fU/+nDVhL1MrA9WQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ilya-\\Desktop\\AnimeProject\\AnimeProject\\AnimeProject\\AnimeProject.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ilya-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
   "logs": []
 }
