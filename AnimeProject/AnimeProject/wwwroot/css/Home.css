@@ -112,4 +112,8 @@
     height: 269px;
     background: #1F464D;
     box-shadow: 7px 7px 7px #A3A197;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
 }
