@@ -35,8 +35,7 @@ C:\Users\ilya-\Desktop\AnimeProject\AnimeProject\AnimeProject\obj\Debug\netcorea
 C:\Users\ilya-\Desktop\AnimeProject\AnimeProject\AnimeProject\obj\Debug\netcoreapp3.1\AnimeProject.pdb
 C:\Users\ilya-\Desktop\AnimeProject\AnimeProject\AnimeProject\obj\Debug\netcoreapp3.1\AnimeProject.genruntimeconfig.cache
 C:\Users\ilya-\Desktop\AnimeProject\AnimeProject\AnimeProject\obj\Debug\netcoreapp3.1\AnimeProject.csproj.CopyComplete
-C:\Users\ilya-\Desktop\AnimeProject\AnimeProject\AnimeProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\ilya-\Desktop\AnimeProject\AnimeProject\AnimeProject\obj\Debug\netcoreapp3.1\Razor\Views\Anime\Index.cshtml.g.cs
 C:\Users\ilya-\Desktop\AnimeProject\AnimeProject\AnimeProject\obj\Debug\netcoreapp3.1\Razor\Views\RegLog\Login.cshtml.g.cs
 C:\Users\ilya-\Desktop\AnimeProject\AnimeProject\AnimeProject\obj\Debug\netcoreapp3.1\Razor\Views\RegLog\Registration.cshtml.g.cs
 C:\Users\ilya-\Desktop\AnimeProject\AnimeProject\AnimeProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_RegLogLayout.cshtml.g.cs
+C:\Users\ilya-\Desktop\AnimeProject\AnimeProject\AnimeProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Anime.cshtml.g.cs
