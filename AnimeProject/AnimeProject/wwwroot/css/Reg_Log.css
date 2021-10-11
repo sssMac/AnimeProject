@@ -17,7 +17,7 @@ body {
     background: #1F464D;
     align-items: center;
     flex-direction: column;
-    box-shadow: 7px 7px 7px #A3A197;
+    box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.25);
 }
 
 .Login, .Registration {
@@ -42,7 +42,7 @@ body {
 
 }
 
-.Email_Field, .Password_Field, .Confirm_Password_Field{
+.Email_Field, .Password_Field, .Confirm_Password_Field {
     position: relative;
     margin: 5px 0 0;
     background: #D9D7CA;
@@ -51,7 +51,7 @@ body {
     padding-left: 10px;
     font-family: 'Ubuntu', sans-serif;
     font-size: 20px;
-    box-shadow: 7px 7px 7px #17353A;
+    box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.25);
 }
     .Email_Field:focus, .Password_Field:focus, .Confirm_Password_Field:focus {
         outline: none;
@@ -83,7 +83,7 @@ button {
     color: white;
     width: 147px;
     height: 49px;
-    box-shadow: 7px 7px 7px #17353A;
+    box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.25);
 }
 
 .Forgot_Password {

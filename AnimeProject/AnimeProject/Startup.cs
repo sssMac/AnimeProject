@@ -51,7 +51,7 @@ namespace AnimeProject
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}",
+                    pattern: "{controller=Home}/{action=Anime}/{id?}",
                     dataTokens: new { routeName = "All" }
                 );
             });
