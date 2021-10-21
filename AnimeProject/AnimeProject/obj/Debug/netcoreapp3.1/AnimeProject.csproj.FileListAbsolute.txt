@@ -39,3 +39,4 @@ C:\Users\ilya-\Desktop\AnimeProject\AnimeProject\AnimeProject\obj\Debug\netcorea
 C:\Users\ilya-\Desktop\AnimeProject\AnimeProject\AnimeProject\obj\Debug\netcoreapp3.1\Razor\Views\RegLog\Registration.cshtml.g.cs
 C:\Users\ilya-\Desktop\AnimeProject\AnimeProject\AnimeProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_RegLogLayout.cshtml.g.cs
 C:\Users\ilya-\Desktop\AnimeProject\AnimeProject\AnimeProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Anime.cshtml.g.cs
+C:\Users\ilya-\Desktop\AnimeProject\AnimeProject\AnimeProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Profile.cshtml.g.cs

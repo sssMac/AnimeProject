@@ -3,6 +3,7 @@
 Body {
     background: #D9D7CA;
 }
+
 .Home {
     display: flex;
     background: #D9D7CA;
@@ -94,8 +95,9 @@ footer {
     padding-left: 10px;
     font-family: 'Ubuntu', sans-serif;
 }
-    .Search:focus{
-        outline:none;
+
+    .Search:focus {
+        outline: none;
     }
 
 .Login {
@@ -121,10 +123,11 @@ footer {
     align-items: center;
     text-decoration: none;
 }
+
     .Login_Button:hover {
         outline: none;
         text-decoration: none;
-        color:white;
+        color: white;
     }
 
 .Sort_Box {
@@ -148,11 +151,10 @@ footer {
     width: 100px;
     height: 60px;
     margin: 17px auto 17px 25px;
-    
 }
 
 .Sort, .By {
-    display:flex;
+    display: flex;
     position: relative;
     font-family: 'Ubuntu', sans-serif;
     font-size: 30px;
@@ -160,7 +162,6 @@ footer {
     height: 30px;
     width: 100px;
     align-items: center;
-
 }
 
 .Main_Content {
@@ -200,4 +201,11 @@ footer {
     overflow: hidden;
     text-overflow: ellipsis;
     text-align: center;
+}
+
+.Background {
+    position: relative;
+    width: 1336px;
+    height: 314px;
+    background-color: gray;
 }
