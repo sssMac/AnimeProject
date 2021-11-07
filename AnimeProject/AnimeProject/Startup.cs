@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 
 namespace AnimeProject
@@ -29,6 +30,15 @@ namespace AnimeProject
                     Configuration.GetConnectionString("DefaultConnection")
                 )
             );
+            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+                .AddCookie(options =>
+                    {
+                        options.LoginPath = new Microsoft.AspNetCore.Http.PathString("/RegLog/Login");
+                        options.LogoutPath = new Microsoft.AspNetCore.Http.PathString("/RegLog/Logout");
+                        options.AccessDeniedPath = new Microsoft.AspNetCore.Http.PathString("/Home/Index");
+                        options.ExpireTimeSpan = System.TimeSpan.FromDays(2);
+                    }
+                );
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -50,6 +60,7 @@ namespace AnimeProject
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

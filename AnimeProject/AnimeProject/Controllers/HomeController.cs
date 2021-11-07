@@ -4,17 +4,18 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AnimeProject.Models;
 
 namespace AnimeProject.Controllers
 {
     public class HomeController : Controller
     {
         // GET: HomeController
-        public ActionResult Anime()
+        public IActionResult Anime()
         {
             return View();
         }
-        public ActionResult Profile()
+        public IActionResult Profile()
         {
             return View();
         }

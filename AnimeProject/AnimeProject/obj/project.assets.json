@@ -1609,6 +1609,7 @@
             "version": "[2.2.8, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.2.8, )"
           },

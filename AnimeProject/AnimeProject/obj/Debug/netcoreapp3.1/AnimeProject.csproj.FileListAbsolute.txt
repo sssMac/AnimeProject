@@ -88,7 +88,6 @@ C:/Users/ilya-/Desktop/AnimeProject/AnimeProject/AnimeProject/obj/Debug/netcorea
 /Users/renatmurtazin/RiderProjects/AnimeApp/AnimeProject/AnimeProject/obj/Debug/netcoreapp3.1/Razor/Views/Error.cshtml.g.cs
 /Users/renatmurtazin/RiderProjects/AnimeApp/AnimeProject/AnimeProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Anime.cshtml.g.cs
 /Users/renatmurtazin/RiderProjects/AnimeApp/AnimeProject/AnimeProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Profile.cshtml.g.cs
-/Users/renatmurtazin/RiderProjects/AnimeApp/AnimeProject/AnimeProject/obj/Debug/netcoreapp3.1/Razor/Views/Privacy.cshtml.g.cs
 /Users/renatmurtazin/RiderProjects/AnimeApp/AnimeProject/AnimeProject/obj/Debug/netcoreapp3.1/Razor/Views/RegLog/Login.cshtml.g.cs
 /Users/renatmurtazin/RiderProjects/AnimeApp/AnimeProject/AnimeProject/obj/Debug/netcoreapp3.1/Razor/Views/RegLog/Registration.cshtml.g.cs
 /Users/renatmurtazin/RiderProjects/AnimeApp/AnimeProject/AnimeProject/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
@@ -101,3 +100,4 @@ C:/Users/ilya-/Desktop/AnimeProject/AnimeProject/AnimeProject/obj/Debug/netcorea
 /Users/renatmurtazin/RiderProjects/AnimeApp/AnimeProject/AnimeProject/obj/Debug/netcoreapp3.1/AnimeProject.Views.pdb
 /Users/renatmurtazin/RiderProjects/AnimeApp/AnimeProject/AnimeProject/obj/Debug/netcoreapp3.1/AnimeProject.csproj.CopyComplete
 /Users/renatmurtazin/RiderProjects/AnimeApp/AnimeProject/AnimeProject/obj/Debug/netcoreapp3.1/AnimeProject.genruntimeconfig.cache
+/Users/renatmurtazin/RiderProjects/AnimeApp/AnimeProject/AnimeProject/obj/Debug/netcoreapp3.1/Razor/Views/Privacy.cshtml.g.cs
