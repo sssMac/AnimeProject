@@ -100,4 +100,4 @@ C:/Users/ilya-/Desktop/AnimeProject/AnimeProject/AnimeProject/obj/Debug/netcorea
 /Users/renatmurtazin/RiderProjects/AnimeApp/AnimeProject/AnimeProject/obj/Debug/netcoreapp3.1/AnimeProject.Views.pdb
 /Users/renatmurtazin/RiderProjects/AnimeApp/AnimeProject/AnimeProject/obj/Debug/netcoreapp3.1/AnimeProject.csproj.CopyComplete
 /Users/renatmurtazin/RiderProjects/AnimeApp/AnimeProject/AnimeProject/obj/Debug/netcoreapp3.1/AnimeProject.genruntimeconfig.cache
-/Users/renatmurtazin/RiderProjects/AnimeApp/AnimeProject/AnimeProject/obj/Debug/netcoreapp3.1/Razor/Views/Privacy.cshtml.g.cs
+/Users/renatmurtazin/RiderProjects/AnimeApp/AnimeProject/AnimeProject/obj/Debug/netcoreapp3.1/Razor/Views/RegLog/Privacy.cshtml.g.cs
