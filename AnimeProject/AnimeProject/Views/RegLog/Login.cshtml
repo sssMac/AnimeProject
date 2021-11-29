@@ -1,0 +1,20 @@
+﻿@{
+    Layout = "../Shared/_RegLogLayout.cshtml";
+}
+
+<div class="Login">
+    LOG IN
+</div>
+
+<form action="/" method="post" class="Log_Pas_Field">
+    <label for="Email_Field" class="Email_Label">Email</label>
+    <input type="email" name="email" value="" class="Email_Field" />
+    <label for="Password_Field" class="Password_Label">Password</label>
+    <input type="password" name="password" value="" id="lgb" class="Password_Field" />
+    <div class="Submit_Button">
+        <button>Submit</button>
+    </div>
+    <div class="Forgot_Password">
+        <a asp-controller="RegLog" asp-action="Registration" class="Forgot_Password" target="_blank" >Forgot your password?</a>
+    </div>
+</form>
