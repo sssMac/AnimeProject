@@ -1,0 +1,30 @@
+﻿@model AnimeProject.Models.UserViewModel
+@{ 
+    Layout = "../Shared/_RegLogLayout.cshtml";
+}
+
+<div>
+    <div class="Registration">
+        REGISTRATION
+        </div>>
+</div>
+
+<form asp-action="Registration" asp-controller="RegLog" asp-antiforgery="true" method="post" class="Log_Pas_Field">
+    <label for="Email_Field" class="Email_Label">Email</label>
+    <input type="email" name="email" value="" asp-for="Email" class="Email_Field" />
+
+    <label for="Password_Field" class="Password_Label">Password</label>
+    <input type="password"  name="password" value="" asp-for="Password
+    " class="Password_Field" pattern="^(?=.*[a-z])(?=.*[0-9]).{8,16}$"/>
+
+    <label for="Confirm_Password_Field" class="Confirm_Password_Label">Confirm password</label>
+    <input type="password" name="confirmPassword" value="" asp-for="ConfirmPassword
+    " class="Confirm_Password_Field" />
+
+    <div class="Submit_Button">
+        <button type="submit">Submit</button>
+    </div>
+    <div class="Forgot_Password">
+        <a asp-controller="RegLog" asp-action="Login" class="Forgot_Password" target="_blank">Already have an account!</a>
+    </div>
+</form>
